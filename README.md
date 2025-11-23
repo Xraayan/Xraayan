@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Xraayan
-- 👀 I’m interested in coding,new enovative ideas
-- 🌱 I’m currently learning programming languages
+- Hi, I’m @Adithyan
+- I’m interested in coding,new enovative ideas
+- I’m currently learning programming languages
 
 
 <!---
