@@ -1,9 +1,17 @@
-- Hi, I’m @Adithyan
-- I’m interested in coding,new enovative ideas
-- I’m currently learning programming languages
+#Yo, i'm Adithyan Vinod
 
+engineering student building stuff,breaking stuff,then pretending the bugs are “part of the learning process”.
 
-<!---
-Xraayan/Xraayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+mostly into app development, automation, and making cool projects that started as “small ideas” and somehow became 47 open tabs and a mild identity crisis.
+
+---
+
+## tech stack
+
+### languages
+```txt
+Python        ████████████
+Java          ██████████
+C             ████████
+JavaScript    ██████████
+HTML/CSS      █████████
